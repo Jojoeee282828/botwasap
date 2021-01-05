@@ -1,4 +1,4 @@
-const  XBOT = 'NthnBOT; // Nama Bot Whatsapp
+const  XBOT = 'NthnBOT'; // Nama Bot Whatsapp
 const instagram = 'https://instagram.com/jonathanmakarios'; // Nama Instagramlu cok
 const nomer = 'https://Wa.me/+6282334297175'; // Nomor whatsapplu cok
 const aktif = 'Random'; // Kapan bot lu aktif
